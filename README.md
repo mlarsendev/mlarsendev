@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [PollyBot](https://github.com/mlarsendev/polly)<br>🤝 I’m looking for help with [PollyBot](https://github.com/mlarsendev/polly)
+🔭 I’m currently working on PollyBot<br>🤝 I’m looking for help with PollyBot
 
 
 ## 🌐 Socials:
